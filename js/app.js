@@ -6,6 +6,8 @@ const loadProducts = () => {
 };
 loadProducts();
 
+// this is editable comment
+
 // show all product in UI 
 const showProducts = (products) => {
   const allProducts = products.map((pd) => pd);
